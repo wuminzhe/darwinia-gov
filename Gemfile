@@ -69,3 +69,12 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'siwe', '~> 2.0'
+gem 'acts_as_commentable_with_threading'
+gem 'faraday', '~> 2.7'
+gem 'bullet', group: 'development'
+gem 'graphql-client', '~> 0.18.0'
+gem 'redcarpet'
+gem 'scale_rb', '~> 0.2.0'
+gem 'kamal', '~> 0.16.1'
